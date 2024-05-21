@@ -1,5 +1,5 @@
 // Profilie pic?
-
+import profilepic from '../assets/images/'
 
 
 
