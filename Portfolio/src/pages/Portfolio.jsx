@@ -39,3 +39,42 @@ const projects = [
         projectLink:'https://drive.google.com/file/d/1dDDtImlwgfFc-7esOvazsTbly-holLY5/view',
     },
 ]
+export default function Portfolio() {
+    return (
+      <div className="container pt-4">
+        <h2>Portfolio</h2>
+        <div className="row">
+          {projects.map((project, index) => (
+            <div key={index} className="col-lg-4 col-md-6 mb-4">
+              <div className="card h-100 position-relative">
+                <a
+                  className="hoverBox"
+                  href={project.projectLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img
+                    className="portImage"
+                    src={project.image}
+                    alt={project.name}
+                  />
+                  <div className="card-body text-light position-absolute top-0 start-0 w-100 p-2 d-flex flex-column">
+                    <h4 className="align-self-start">{project.name}</h4>
+                    <a href={project.githubLink} target="_blank" rel="noopener noreferrer">
+                      <img
+                        // src={githubLogo}
+                        className="logo github portGithub"
+                        alt="Github logo"
+                      />
+                    </a>
+                    <p className="mt-auto">{project.description}</p>
+                  </div>
+                </a>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    );
+  }
+  
