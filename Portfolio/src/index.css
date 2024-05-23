@@ -71,7 +71,23 @@ body {
   padding-top: 4rem;
 }
 
+/* Header */
 
+.container-full-width {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.navbar {
+  width: 100%;
+}
+
+.container {
+  max-width: 100%;
+}
 
 
 @media (prefers-color-scheme: light) {
