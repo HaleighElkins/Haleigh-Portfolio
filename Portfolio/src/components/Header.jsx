@@ -9,10 +9,10 @@ const navLinks = [
 
 export default function Header() {
   return (
-    <nav className="navbar navbar-expand-lg bg-secondary position-fixed top-0 w-100">
+    <nav className="navbar navbar-expand-lg bg-secondary position-fixed top-0 w-100 custome-navbar">
       <div className="container">
         <div className="d-flex w-100 justify-content-between align-items-center">
-          <h1 className="flex-grow-1" id="nameTitle">
+          <h1 className="flex-grow-1 text-start" id="nameTitle">
             Haleigh Elkins
           </h1>
           <div id="navbarSupportedContent">
@@ -31,3 +31,4 @@ export default function Header() {
     </nav>
   );
 }
+

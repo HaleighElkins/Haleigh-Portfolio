@@ -7,7 +7,7 @@ export default function AboutMe() {
     <div className="container pt-4 about-me-container">
         <h2>About Me</h2>
         <div id='about-me'>
-            <div className='cal-3 mb-4'>
+            <div className='text-center'>
                 {/* Profile Pic */}
                 <img 
                 src={profliePic}
