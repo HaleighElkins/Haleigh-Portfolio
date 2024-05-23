@@ -30,11 +30,11 @@ body {
   min-height: 100vh;
 }
 
-/* h1 {
+h1 {
   font-size: 3.2em;
   line-height: 1.1;
   background-color: rgb(15, 104, 74);
-} */
+}
 
 button {
   border-radius: 8px;
@@ -48,7 +48,7 @@ button {
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+  border-color: #23792a;
 }
 button:focus,
 button:focus-visible {
@@ -56,8 +56,8 @@ button:focus-visible {
 }
 
 
-/* About Me */
-.profile-picture {
+/* About me */
+ .profile-picture {
   max-width: 200px; 
   height: auto; 
 }
@@ -66,7 +66,7 @@ body {
   background-color: #242424; 
   color: #fff; 
   display: flex;
-}
+} 
 
 .about-me-content {
   padding-top: 4rem;
@@ -92,7 +92,44 @@ body {
   max-width: 1200px; 
   margin: 0 auto; 
 }
+/* Contact me page */
+.contact-me-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
 
+.contact-form-container {
+  max-width: 400px; 
+  width: 100%;
+  padding: 20px;
+  background-color: #1a1a1a;
+  border-radius: 8px;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 10px;
+  border: 1px solid #898bbb;
+  border-radius: 5px;
+  background-color: #333;
+  color: #fff;
+}
+
+.contact-form button {
+  padding: 10px 20px;
+  background-color: #646cff;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
 
 @media (prefers-color-scheme: light) {
   :root {
