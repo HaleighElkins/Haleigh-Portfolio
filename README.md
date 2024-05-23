@@ -12,6 +12,14 @@
 - [Authors and Acknowledgment](#acknowledgment)
 
 ## Visuals
+![Screenshot 2024-05-22 214112](https://github.com/HaleighElkins/Haleigh-Portfolio/assets/152942336/dded1010-f273-4268-9119-e6e2713e9c83)
+
+![Screenshot 2024-05-22 214128](https://github.com/HaleighElkins/Haleigh-Portfolio/assets/152942336/915f11d8-4a47-43e9-a719-b0b3d3e0e11a)
+
+![Screenshot 2024-05-22 214135](https://github.com/HaleighElkins/Haleigh-Portfolio/assets/152942336/7238b782-50c2-4e70-8533-7df1abc480a9)
+
+![Screenshot 2024-05-22 214143](https://github.com/HaleighElkins/Haleigh-Portfolio/assets/152942336/266a9b49-91fc-4ab8-8bfc-d46eb642539f)
+
 
 ## Installation
 
