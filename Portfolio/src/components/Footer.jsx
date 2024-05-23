@@ -1,5 +1,5 @@
 import githubLogo from '../assets/svg/github.svg';
-import linkedLogo from '../assets/linkedin.svg';
+import linkedLogo from '../assets/svg/linkedin.svg';
 
 export default function Footer() {
     const socialLinks = [
