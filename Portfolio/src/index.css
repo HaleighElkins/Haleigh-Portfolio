@@ -4,7 +4,7 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
+  color: rgba(26, 9, 9, 0.87);
   background-color: #242424;
 
   font-synthesis: none;
@@ -33,6 +33,7 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  background-color: rgb(15, 104, 74);
 }
 
 button {
@@ -53,6 +54,25 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+
+
+/* About Me */
+.profile-picture {
+  max-width: 200px; 
+  height: auto; 
+}
+
+body {
+  background-color: #242424; 
+  color: #fff; 
+}
+
+.about-me-content {
+  padding-top: 4rem;
+}
+
+
+
 
 @media (prefers-color-scheme: light) {
   :root {

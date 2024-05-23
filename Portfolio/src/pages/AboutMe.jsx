@@ -4,7 +4,7 @@ import profliePic from '../assets/images/portfolio-pic.jpg';
 
 export default function AboutMe() {
     return(
-    <div className="container pt-4">
+    <div className="container pt-4 about-me-container">
         <h2>About Me</h2>
         <div id='about-me'>
             <div className='cal-3 mb-4'>
@@ -12,7 +12,7 @@ export default function AboutMe() {
                 <img 
                 src={profliePic}
                 alt='Haleigh Elkins'
-                className='img-fluid'
+                className='img-fluid profile-picture'
                 id='profile-pic'
                 />
             </div>
