@@ -34,3 +34,11 @@ I wrote this code from scratch, and used refrences for my class at DU Coding Boo
 
 I did use these following website for help: 
 
+https://stackoverflow.com/questions/78520866/my-properties-are-not-rendering-to-the-screen-as-they-were-before
+
+https://stackoverflow.com/questions/31079081/how-to-programmatically-navigate-using-react-router
+
+https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported
+
+https://stackoverflow.com/questions/37949981/call-child-method-from-parent
+
