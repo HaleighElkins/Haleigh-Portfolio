@@ -32,6 +32,10 @@ If you want to reference this for your own portfolio, would be useful for that.
 <a id="Visuals"></a>
 
 ## Visuals
+![Screenshot 2024-05-28 140436](https://github.com/HaleighElkins/Haleigh-Portfolio/assets/152942336/8b601021-8254-48ab-90af-b33dc437a234)
+![Screenshot 2024-05-28 140448](https://github.com/HaleighElkins/Haleigh-Portfolio/assets/152942336/a9cf10a6-2f95-44bb-95f6-6af32cdbe771)
+![Screenshot 2024-05-28 140456](https://github.com/HaleighElkins/Haleigh-Portfolio/assets/152942336/758822a9-5cab-4e33-a057-7d5d2b27fc6d)
+![Screenshot 2024-05-28 140505](https://github.com/HaleighElkins/Haleigh-Portfolio/assets/152942336/c702c5d0-e7c8-450e-af71-3a5ec3dc6c51)
 
 
 <a id="acknowledgment"></a>
